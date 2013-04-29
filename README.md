@@ -1,6 +1,6 @@
 # Foodie
 
-TODO: Write a gem description
+This is a test gem
 
 ## Installation
 
